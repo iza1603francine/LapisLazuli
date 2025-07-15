@@ -14,8 +14,8 @@
 
 - [📝 Descrição](#-descrição)
 - [🎯 Objetivo](#-objetivo)
-- [🗺️ Estrutura do Projeto](#️-estrutura-do-projeto)
 - [📜 Licença](#-licença)
+- [🗺️ Estrutura do Projeto](#️-estrutura-do-projeto)
 
 ---
 
@@ -36,26 +36,11 @@ As anotações podem ser **exportadas para PDF**, facilitando o acompanhamento t
 
 ---
 
-## 🗺️ Estrutura do Projeto
-
-```plaintext
-diario-saude-mental/
-├── data/              → Entidade, DAO e banco de dados Room
-├── repository/        → Lógica de acesso aos dados
-├── viewmodel/         → ViewModel com LiveData
-├── ui/                → Telas (XML ou Compose)
-├── util/              → Utilitários (PDF, datas, cores)
-├── res/               → Layouts, drawables e valores
-├── AndroidManifest.xml
-└── build.gradle
-
----
-
 ## 📜 Licença
 
-**MIT License**
+MIT License
 
-**Copyright (c) 2025 iza.francine**
+Copyright (c) 2025 iza.francine
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -76,4 +61,21 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ---
+
+## 🗺️ Estrutura do Projeto
+
+```plaintext
+diario-saude-mental/
+├── data/              → Entidade, DAO e banco de dados Room
+├── repository/        → Lógica de acesso aos dados
+├── viewmodel/         → ViewModel com LiveData
+├── ui/                → Telas (XML ou Compose)
+├── util/              → Utilitários (PDF, datas, cores)
+├── res/               → Layouts, drawables e valores
+├── AndroidManifest.xml
+└── build.gradle
+
+---
+
+
 
