@@ -15,12 +15,6 @@
 - [📝 Descrição](#-descrição)
 - [🎯 Objetivo](#-objetivo)
 - [🗺️ Estrutura do Projeto](#️-estrutura-do-projeto)
-- [📆 Funcionalidade Principal: Calendário](#-funcionalidade-principal-calendário)
-- [📄 Exportação para PDF](#-exportação-para-pdf)
-- [✨ Funcionalidades Futuras](#-funcionalidades-futuras)
-- [🚀 Como Executar o Projeto](#-como-executar-o-projeto)
-- [🔧 Tecnologias e Bibliotecas](#-tecnologias-e-bibliotecas)
-- [👩‍💻 Desenvolvedora](#-desenvolvedora)
 - [📜 Licença](#-licença)
 
 ---
@@ -54,4 +48,8 @@ diario-saude-mental/
 ├── res/               → Layouts, drawables e valores
 ├── AndroidManifest.xml
 └── build.gradle
+
+## 📜 Licença
+
+ 
 
